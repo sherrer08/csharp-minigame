@@ -1,0 +1,14 @@
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.exe
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.deps.json
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.runtimeconfig.json
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.dll
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\bin\Debug\net6.0\Starter.pdb
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfoInputs.cache
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.AssemblyInfo.cs
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.dll
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\refint\Starter.dll
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.pdb
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\Starter.genruntimeconfig.cache
+C:\Users\micha\Documents\Projects\CsharpProjects\Challenge-project-Create-methods-in-CSharp-main\Starter\obj\Debug\net6.0\ref\Starter.dll
